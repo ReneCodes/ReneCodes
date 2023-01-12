@@ -8,8 +8,9 @@ I am a frontend developer with a passion for personal growth, I attended a 12 mo
 
 *   🌍  I'm based in Germany and England
 *   ✉️  You can contact me at [r.gromeier@gmail.com](mailto:r.gromeier@gmail.com)
-*   🧠  I'm learning Data structures and Algorithms### Skills
+*   🧠  I'm learning Data structures and Algorithms
 
+### Skills
 ____________________________________________________________________________
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>

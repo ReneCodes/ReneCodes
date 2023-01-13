@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a frontend developer with a passion for personal growth, I attended a 12 month Web Development and Design Course at Whitecliffe in Aukland to learn new languages while sharpening existing skills.
+I am a frontend developer with a passion for personal growth, I successfully completed a 12 month Web Development and Design Course at Whitecliffe in Aukland to learn new languages while sharpening existing skills.
 
 *   🌍  I'm based in Germany and England
 *   ✉️  You can contact me at [r.gromeier@gmail.com](mailto:r.gromeier@gmail.com)

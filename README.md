@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is René Gromeier
 =====================================================================================================================================
 
-Frontend Developer
+Full-Stack Developer
 ------------------
 
-I am a frontend developer with a passion for personal growth, I successfully completed a 12 month Web Development and Design Course at Whitecliffe in Aukland to learn new languages while sharpening existing skills.
+I am a frontend developer with a passion for personal growth, I successfully completed a 12 month Web Development and Design Course at Whitecliffe in Auckland to learn new languages while sharpening existing skills.
 
 *   🌍  I'm based in Germany and England
 *   ✉️  You can contact me at [r.gromeier@gmail.com](mailto:r.gromeier@gmail.com)
-*   🧠  I'm learning Data structures and Algorithms
+*   🧠  Immersed in Software Engineering Course at CodeWorks till 14.July 23
 
 Skills
 ------------------

@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 ------------------
 
-I am a full-stack developer with a passion for personal growth, I successfully completed a 12-month Web Development and Design Course at Whitecliffe in Auckland to learn new languages while sharpening existing skills. Currently enrolled in a 3-month Bootcamp at CodeWorks, I aspire to apply my skills to impactful software development and become a versatile full-stack developer.
+I am a full-stack developer with a passion for personal growth, I successfully completed a 12-month Web Development and Design Course at Whitecliffe in Auckland to learn new languages while sharpening existing skills. With a background in Avionic Engineering and Quality Assurance, I'm driven by my natural curiosity and love to learn new technologies and solve problems. I aspire to apply my skills to impactful software development and become a versatile full-stack developer.
 
 *   🌍  I'm based in Germany and England
 *   ✉️  You can contact me at [r.gromeier@gmail.com](mailto:r.gromeier@gmail.com)
-*   🧠  Immersed in Software Engineering Course at CodeWorks until 14.July 23
+*   🧠  Continuously improving
 
 Skills
 ------------------
